@@ -26,12 +26,4 @@ Status...... Online
 ```
 ## 📊 GitHub Stats
 
-![Dedeepya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dedeepyananda&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight
