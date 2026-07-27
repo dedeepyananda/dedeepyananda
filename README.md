@@ -24,14 +24,3 @@ Contact..... nanda.dedeepya@gmail.com
 GitHub...... github.com/dedeepyananda
 Status...... Online
 ```
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dedeepyananda&theme=tokyonight)
