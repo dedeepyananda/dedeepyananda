@@ -24,6 +24,3 @@ Contact..... nanda.dedeepya@gmail.com
 GitHub...... github.com/dedeepyananda
 Status...... Online
 ```
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dedeepyananda&theme=tokyonight)
