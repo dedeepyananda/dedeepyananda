@@ -25,3 +25,9 @@ GitHub...... github.com/dedeepyananda
 Status...... Online
 ```
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dedeepyananda&theme=tokyonight)
