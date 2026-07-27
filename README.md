@@ -24,6 +24,4 @@ Contact..... nanda.dedeepya@gmail.com
 GitHub...... github.com/dedeepyananda
 Status...... Online
 ```
-## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight
