@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Dedeepya👋
 
-<!--
-**dedeepyananda/dedeepyananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+       _____
+     .-'     '-.
+    /  o     o  \
+   |      ^      |
+   |    \___/    |
+    \           /
+     '-._____.-'
 
-Here are some ideas to get you started:
+OS.......... Windows 11
+Uptime...... 20 Years
+Kernel...... MirAI AI Builder Intern
+Host........ B.Tech CSE Student
+Editor...... VS Code
+Language.... Python
+Learning.... Artificial Intelligence, Machine Learning, Generative AI
+Projects.... AI Image Studio
+............. Fake Internship Detector
+............. Multiverse Chatbot
+Hobbies..... Coding, AI Engineering
+Contact..... nanda.dedeepya@gmail.com
+GitHub...... github.com/dedeepyananda
+Status...... Online
+```
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dedeepyananda&theme=tokyonight)
