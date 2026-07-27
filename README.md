@@ -22,10 +22,8 @@ Projects.... AI Image Studio
 Hobbies..... Coding, AI Engineering
 Contact..... nanda.dedeepya@gmail.com
 GitHub...... github.com/dedeepyananda
-Status...... Online
+Status....... 🟢 Online
 ```
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight)
 
