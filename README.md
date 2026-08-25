@@ -67,9 +67,9 @@
 LANGUAGES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Python
-Java
-JavaScript
-SQL
+Java(learning)
+JavaScript(learning)
+SQL(learning)
 
 AI / DATA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
