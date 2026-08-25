@@ -52,15 +52,14 @@
 
 ## 🚀 `projects`
 
-| Project                         | Description                                 |
-| ------------------------------- | ------------------------------------------- |
-| 🧠 **Life-OS**                  | AI-powered digital wellbeing dashboard      |
-| 🍳 **Fridge-to-Feast AI**       | AI-powered food and recipe assistant        |
-| 🧬 **Synthetic Data Generator** | AI-based synthetic data generation          |
-| 🏘️ **Community Connect**       | Community problem reporting platform        |
-| 🤖 **Multiverse Chatbot**       | AI conversational application               |
-| 🖼️ **AI Image Studio**         | AI-powered image generation application     |
-| 🔍 **Fake Internship Detector** | AI-assisted internship verification concept |
+| Project                         | Description                                                         |
+| ------------------------------- | ------------------------------------------------------------------- |
+| 🧠 **Life-OS**                  | AI-powered digital wellbeing dashboard                              |
+| 🍳 **Fridge-to-Feast AI**       | AI-powered food and recipe assistant                                |  
+| 🏘️ **Community Connect**       | Community problem reporting platform(ongoing)                        |
+| 🤖 **Multiverse Chatbot**       | AI conversational application(streamlit appilication)               |
+| 🖼️ **AI Image Studio**         | AI-powered image generation application(streamlit appilication)|
+| 🔍 **Fake Internship Detector** | AI-assisted internship verification concept                         |
 
 ## 🛠️ `tech_stack`
 
