@@ -119,15 +119,23 @@ VS Code
 [ ] Become an AI / Software Engineer
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Dedeepya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedeepyananda&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedeepyananda&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+```text
+╔════════════════════════════════════════════════════╗
+║                 DEDEEPYA NANDA                     ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  💻 Building Projects                              ║
+║  🤖 Exploring Artificial Intelligence              ║
+║  🧠 Learning Machine Learning                      ║
+║  🚀 Developing AI-powered Applications             ║
+║                                                    ║
+║       LEARN • BUILD • DEPLOY • IMPROVE             ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 
 ## 🌐 `connect`
 
