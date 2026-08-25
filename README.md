@@ -4,6 +4,8 @@
 
 ### `AI BUILDER • B.TECH CSE STUDENT • DEVELOPER`
 
+**Turning ideas into intelligent solutions 🚀**
+
 </div>
 
 ```text
@@ -20,7 +22,7 @@
 ║                                                              ║
 ║  LEARNING....... Artificial Intelligence                     ║
 ║                  Machine Learning                             ║
-║                  Generative AI                                ║
+║                  Generative AI                               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -32,6 +34,9 @@
 
 > A Computer Science student who enjoys building
 > AI-powered applications and learning new technologies.
+
+> I am interested in Artificial Intelligence,
+> Machine Learning, Generative AI and Software Development.
 
 > I believe in:
 
@@ -52,14 +57,14 @@
 
 ## 🚀 `projects`
 
-| Project                         | Description                                                         |
-| ------------------------------- | ------------------------------------------------------------------- |
-| 🧠 **Life-OS**                  | AI-powered digital wellbeing dashboard                              |
-| 🍳 **Fridge-to-Feast AI**       | AI-powered food and recipe assistant                                |  
-| 🏘️ **Community Connect**       | Community problem reporting platform(ongoing)                        |
-| 🤖 **Multiverse Chatbot**       | AI conversational application(streamlit appilication)               |
-| 🖼️ **AI Image Studio**         | AI-powered image generation application(streamlit appilication)|
-| 🔍 **Fake Internship Detector** | AI-assisted internship verification concept                         |
+| Project                         | Description                                       |
+| ------------------------------- | ------------------------------------------------- |
+| 🧠 **Life-OS**                  | AI-powered digital wellbeing dashboard            |
+| 🍳 **Fridge-to-Feast AI**       | AI-powered food and recipe assistant              |
+| 🏘️ **Community Connect**       | Community problem reporting platform *(Ongoing)*  |
+| 🤖 **Multiverse Chatbot**       | AI conversational Streamlit application           |
+| 🖼️ **AI Image Studio**         | AI-powered image generation Streamlit application |
+| 🔍 **Fake Internship Detector** | AI-assisted internship verification concept       |
 
 ## 🛠️ `tech_stack`
 
@@ -67,9 +72,9 @@
 LANGUAGES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Python
-Java(learning)
-JavaScript(learning)
-SQL(learning)
+Java (Learning)
+JavaScript (Learning)
+SQL (Learning)
 
 AI / DATA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -93,13 +98,13 @@ VS Code
 
 ```text
 ┌──────────────────────────────────────────┐
-│             LEARNING MODE                 │
+│              LEARNING MODE               │
 ├──────────────────────────────────────────┤
 │                                          │
 │  🤖 Generative AI                        │
 │  🧠 Machine Learning                     │
 │  💻 Software Development                 │
-│  🌐 Full-Stack Development                │
+│  🌐 Full-Stack Development               │
 │  🔌 API Integration                      │
 │  ☁️ Cloud Deployment                     │
 │                                          │
@@ -119,23 +124,27 @@ VS Code
 [ ] Become an AI / Software Engineer
 ```
 
-## 📊 GitHub Activity
+## 📊 `github_activity`
 
 <div align="center">
 
 ```text
 ╔════════════════════════════════════════════════════╗
-║                 DEDEEPYA NANDA                     ║
+║                 DEEDEEPYA NANDA                   ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
 ║  💻 Building Projects                              ║
 ║  🤖 Exploring Artificial Intelligence              ║
 ║  🧠 Learning Machine Learning                      ║
+║  ✨ Exploring Generative AI                        ║
 ║  🚀 Developing AI-powered Applications             ║
 ║                                                    ║
 ║       LEARN • BUILD • DEPLOY • IMPROVE             ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 🌐 `connect`
 
@@ -149,6 +158,8 @@ VS Code
 
 ---
 
+<div align="center">
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -159,8 +170,5 @@ VS Code
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 </div>
